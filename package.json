@@ -1,0 +1,8 @@
+{
+  "name": "new-project",
+  "author": "philipmortimer",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
